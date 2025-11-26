@@ -16,8 +16,8 @@ export class BasePage {
   async type(xpath, text) {
     const element = this.page.locator(`xpath=${xpath}`);
     await element.waitFor({ state: "visible" });
-    await element.fill("");     // limpiar primero
-    await element.fill(text);   // escribir
+    await element.fill("");     
+    await element.fill(text);   
   }
 
   async getText(xpath) {

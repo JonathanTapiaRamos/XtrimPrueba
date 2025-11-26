@@ -7,7 +7,7 @@ export class Zapping extends BasePage {
     // Selectores por XPath
     this.btnModalXtrim = "//span[@class='close']"
     this.btnZapping ="/html/body/div[1]/div/header/div/div/div[1]/div/div[2]/ul/li[2]/a"
-    this.btnContrataloAqui = "/html/body/div[1]/div/div[2]/div/div/div/main/article/div/div[7]/div/div/div/div[2]/div[4]/div/div/div[9]/a"
+    this.btnContrataloAqui = "(//a[contains(text(),'Contratalo Aquí')])[2]"
     this.getMas="//div[contains(text(),'Ver más')]"
   }
 
