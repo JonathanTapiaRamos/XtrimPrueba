@@ -1,0 +1,264 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Personas" [ref=e8] [cursor=pointer]:
+            - /url: https://www.xtrim.com.ec/
+        - listitem [ref=e9]:
+          - link "Negocios" [ref=e10] [cursor=pointer]:
+            - /url: https://www.xtrim.com.ec/negocios/
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "k Te llamamos" [ref=e13] [cursor=pointer]:
+            - /url: https://www.xtrim.com.ec/contactanos/
+            - generic [ref=e14]: k
+            - text: Te llamamos
+    - banner [ref=e15]:
+      - generic [ref=e17]:
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - link "Xtrim" [ref=e22] [cursor=pointer]:
+              - /url: https://www.xtrim.com.ec/
+              - img "Xtrim" [ref=e23]
+            - text:  w  k
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - link "Planes" [ref=e27] [cursor=pointer]:
+                - /url: "#"
+                - text: Planes
+                - generic [ref=e28]: 
+            - listitem [ref=e29]:
+              - link "Zapping" [ref=e30] [cursor=pointer]:
+                - /url: https://www.xtrim.com.ec/zapping/
+            - listitem [ref=e31]:
+              - link "Canales de Atención" [ref=e32] [cursor=pointer]:
+                - /url: https://www.xtrim.com.ec/canales-de-atencion/
+            - listitem [ref=e33]:
+              - link "Tienda Xtrim" [ref=e34] [cursor=pointer]:
+                - /url: https://www.tiendaxtrim.com/
+            - text:  
+            - listitem [ref=e35]:
+              - link " Pagar Servicio" [ref=e36] [cursor=pointer]:
+                - /url: https://pagos.xtrim.com.ec/
+          - text: m
+        - text:  w  k m
+    - main [ref=e41]:
+      - article [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e50]:
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - link [ref=e53] [cursor=pointer]:
+                  - /url: /contrata-aqui/
+              - listitem [ref=e54]
+              - listitem [ref=e55]:
+                - img "Contrata Aquí" [ref=e56]
+            - list:
+              - listitem:
+                - link " Previous" [ref=e57] [cursor=pointer]:
+                  - /url: "#"
+              - listitem:
+                - link " Next" [ref=e58] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e62]:
+            - generic [ref=e67]:
+              - heading "¡Conéctate con lo mejor del fútbol y entretenimiento!" [level=1] [ref=e69]
+              - paragraph [ref=e71]: Disfruta +100 canales en vivo y lo mejor del fútbol internacional con la mejor calidad y sin interrupciones con el Plan Premium.
+            - generic [ref=e74]:
+              - generic [ref=e78]:
+                - generic [ref=e81]:
+                  - heading [level=3]
+                  - img [ref=e82]
+                - heading "Incluye:" [level=2] [ref=e84]
+                - heading "+50 canales" [level=1] [ref=e86]
+                - figure [ref=e88]
+                - heading "¡Gratis!" [level=2] [ref=e93]
+                - heading "Incluido en todos los planes de internet" [level=5] [ref=e95]
+                - button "Actívalo aquí" [ref=e100] [cursor=pointer]
+                - paragraph [ref=e101]: Ver programación
+              - generic [ref=e105]:
+                - generic [ref=e108]:
+                  - heading [level=3]
+                  - img [ref=e109]
+                - heading "Incluye:" [level=2] [ref=e111]
+                - heading "+50 canales" [level=1] [ref=e113]
+                - figure [ref=e115]
+                - heading "$14,99* inc imp." [level=2] [ref=e120]
+                - heading "*Aplica términos y condiciones" [level=5] [ref=e122]
+                - link "Contratalo Aquí" [ref=e127] [cursor=pointer]:
+                  - /url: https://zappingsva.xtrim.com.ec/
+                - paragraph [ref=e128]: Ver programación
+              - generic [ref=e132]:
+                - generic [ref=e135]:
+                  - heading [level=3]
+                  - img [ref=e136]
+                - heading "Incluye:" [level=2] [ref=e138]
+                - heading "+100 canales" [level=1] [ref=e140]
+                - figure [ref=e142]
+                - heading "$19,99* inc imp." [level=2] [ref=e147]
+                - heading "*Aplica términos y condiciones" [level=5] [ref=e149]
+                - link "Contratalo Aquí" [ref=e154] [cursor=pointer]:
+                  - /url: https://zappingsva.xtrim.com.ec/
+                - paragraph [ref=e155]: Ver programación
+            - generic [ref=e161]:
+              - heading "¿Aún no eres cliente? ¡Empieza hoy mismo!" [level=3] [ref=e163]
+              - link "Contrata ahora " [ref=e166] [cursor=pointer]:
+                - /url: https://www.xtrim.com.ec/contrata-aqui/
+                - text: Contrata ahora
+                - generic [ref=e167]: 
+          - generic: 
+          - generic [ref=e176]:
+            - list [ref=e177]:
+              - listitem [ref=e178]
+            - list:
+              - listitem:
+                - link " Previous" [ref=e179]:
+                  - /url: "#"
+              - listitem:
+                - link " Next" [ref=e180]:
+                  - /url: "#"
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - heading "Disponible en tus dispositivos favoritos" [level=1] [ref=e189]
+              - paragraph [ref=e190]: "Descarga y disfruta Zapping en:"
+            - generic [ref=e193]:
+              - generic [ref=e194]:
+                - generic [ref=e195]:
+                  - img [ref=e197]
+                  - generic [ref=e199]:
+                    - heading "Smart TV" [level=4] [ref=e200]
+                    - paragraph [ref=e201]: Android, LG, Samsung, Roku, y Vidaa
+                - generic [ref=e202]:
+                  - img [ref=e204]
+                  - generic [ref=e207]:
+                    - heading "Streaming" [level=4] [ref=e208]
+                    - paragraph [ref=e209]: Roku, Apple TV, Android TV Box, Chromecast, Amazon Firestick
+                - generic [ref=e210]:
+                  - img [ref=e212]
+                  - generic [ref=e217]:
+                    - heading "Smartphone & Tablet" [level=4] [ref=e218]
+                    - paragraph [ref=e219]: Apple y Android
+              - link "Ver Compatibilidad" [ref=e220] [cursor=pointer]:
+                - /url: https://www.zapping.ec/compatibilidad
+                - button "Ver Compatibilidad" [ref=e221]:
+                  - text: Ver Compatibilidad
+                  - img [ref=e222]
+          - heading "¿Tienes alguna duda?" [level=3] [ref=e230]
+          - generic [ref=e242]:
+            - heading "¿Qué es Zapping?" [level=4] [ref=e245]:
+              - link "¿Qué es Zapping?" [ref=e246] [cursor=pointer]:
+                - /url: "#preg_1"
+                - text: ¿Qué es Zapping?
+            - heading "Si soy cliente Xtrim, ¿Puedo ver La LigaEcuabet?" [level=4] [ref=e250]:
+              - link "Si soy cliente Xtrim, ¿Puedo ver La LigaEcuabet?" [ref=e251] [cursor=pointer]:
+                - /url: "#preg_2"
+                - text: Si soy cliente Xtrim, ¿Puedo ver La LigaEcuabet?
+            - heading "¿Zapping Premium incluye solo fútbol?" [level=4] [ref=e255]:
+              - link "¿Zapping Premium incluye solo fútbol?" [ref=e256] [cursor=pointer]:
+                - /url: "#preg_3"
+                - text: ¿Zapping Premium incluye solo fútbol?
+            - heading "¿Cuál es el costo de Zapping Premium?" [level=4] [ref=e260]:
+              - link "¿Cuál es el costo de Zapping Premium?" [ref=e261] [cursor=pointer]:
+                - /url: "#preg_4"
+                - text: ¿Cuál es el costo de Zapping Premium?
+            - heading "¿Cómo se realiza el pago de Zapping Premium?" [level=4] [ref=e265]:
+              - link "¿Cómo se realiza el pago de Zapping Premium?" [ref=e266] [cursor=pointer]:
+                - /url: "#preg_5"
+                - text: ¿Cómo se realiza el pago de Zapping Premium?
+            - heading "Si ya tengo Zapping Básico, ¿Cómo obtengo Zapping Premium?" [level=4] [ref=e270]:
+              - link "Si ya tengo Zapping Básico, ¿Cómo obtengo Zapping Premium?" [ref=e271] [cursor=pointer]:
+                - /url: "#preg_6"
+                - text: Si ya tengo Zapping Básico, ¿Cómo obtengo Zapping Premium?
+            - heading "¿Zapping Premium transmitirá los partidos de las eliminatorias Sudamericanas?" [level=4] [ref=e275]:
+              - link "¿Zapping Premium transmitirá los partidos de las eliminatorias Sudamericanas?" [ref=e276] [cursor=pointer]:
+                - /url: "#preg_7"
+                - text: ¿Zapping Premium transmitirá los partidos de las eliminatorias Sudamericanas?
+            - heading "Si contrato Zapping Premium y quiero darlo de baja, ¿hasta cuándo debo hacerlo?" [level=4] [ref=e280]:
+              - link "Si contrato Zapping Premium y quiero darlo de baja, ¿hasta cuándo debo hacerlo?" [ref=e281] [cursor=pointer]:
+                - /url: "#preg_8"
+                - text: Si contrato Zapping Premium y quiero darlo de baja, ¿hasta cuándo debo hacerlo?
+    - contentinfo [ref=e287]:
+      - generic [ref=e288]:
+        - generic [ref=e293]:
+          - complementary [ref=e295]:
+            - generic [ref=e296]:
+              - heading "Servicios" [level=4] [ref=e297]
+              - list [ref=e299]:
+                - listitem [ref=e300]:
+                  - link "Internet" [ref=e301] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/internet/
+                - listitem [ref=e302]:
+                  - link "TV&Streaming" [ref=e303] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/tvstreaming/
+                - listitem [ref=e304]:
+                  - link "Telefonía" [ref=e305] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/telefonia/
+                - listitem [ref=e306]:
+                  - link "Xtrim Mail" [ref=e307] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/webmail/
+          - complementary [ref=e309]:
+            - generic [ref=e310]:
+              - heading "Servicio al cliente" [level=4] [ref=e311]
+              - list [ref=e313]:
+                - listitem [ref=e314]:
+                  - link "Centro de ayuda" [ref=e315] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/centro-de-ayuda/
+                - listitem [ref=e316]:
+                  - link "Canales de Pago" [ref=e317] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/red-de-pagos/
+                - listitem [ref=e318]:
+                  - link "Medidor de velocidad" [ref=e319] [cursor=pointer]:
+                    - /url: http://xtrim.speedtestcustom.com/
+                - listitem [ref=e320]:
+                  - link "Notificaciones" [ref=e321] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/notificaciones/
+          - complementary [ref=e323]:
+            - generic [ref=e324]:
+              - heading "Empresa" [level=4] [ref=e325]
+              - list [ref=e327]:
+                - listitem [ref=e328]:
+                  - link "Nosotros" [ref=e329] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/nosotros/
+                - listitem [ref=e330]:
+                  - link "Reseña histórica" [ref=e331] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/resena-historica/
+                - listitem [ref=e332]:
+                  - link "Trabaja con Nosotros" [ref=e333] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/trabaja-con-nosotros/
+                - listitem [ref=e334]:
+                  - link "Canal Ético – ISO 37001" [ref=e335] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/canal-etico-iso-37001/
+                - listitem [ref=e336]:
+                  - link "Índices de Calidad" [ref=e337] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/indices-de-calidad-de-los-servicios-xtrim/
+                - listitem [ref=e338]:
+                  - link "Consumo de Internet" [ref=e339] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/consumo-de-internet/
+          - complementary [ref=e341]:
+            - generic [ref=e342]:
+              - heading "Información legal" [level=4] [ref=e343]
+              - list [ref=e345]:
+                - listitem [ref=e346]:
+                  - link "Información pública" [ref=e347] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/informacion-publica/
+                - listitem [ref=e348]:
+                  - link "Contrato de Prestación de Servicios" [ref=e349] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/wp-content/uploads/2025/03/FORMATO-DE-CONTRATO-DE-ADHESION-XTRIM.pdf
+                - listitem [ref=e350]:
+                  - link "Política de Privacidad de Datos Personales" [ref=e351] [cursor=pointer]:
+                    - /url: https://www.xtrim.com.ec/politica-de-privacidad-datos/
+        - generic [ref=e354]:
+          - generic:
+            - img
+          - text: © Xtrim 2025 - SERVICIOS DE TELECOMUNICACIONES SETEL S.A.
+      - text: y y y y 
+  - generic:
+    - button "¿Necesitas ayuda? Open chat" [ref=e355] [cursor=pointer]:
+      - generic:
+        - generic: ¿Necesitas ayuda?
+    - dialog "Powered by Xtrim"
+```
