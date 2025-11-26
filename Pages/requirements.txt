@@ -1,0 +1,21 @@
+Automatización Playwright – Instrucciones de Ejecución
+URLs a validar
+
+Formulario “Te llamamos”: sección Contáctanos
+
+Landing “Pagar Servicio”
+
+Zapping → Plan Plus/Premium → “Contrátalo aquí”
+
+1. Ejecución de las pruebas
+Modo UI (visual)
+npx playwright test --ui
+
+Ejecutar solo en Chrome (headless o normal)
+npx playwright test --project=chromium
+
+2. Generar y ver el reporte
+
+Después de ejecutar las pruebas:
+
+npx playwright show-report
